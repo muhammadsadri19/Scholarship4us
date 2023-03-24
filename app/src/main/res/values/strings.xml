@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Start Up</string>
+    <string name="scholarship4us">Scholarship4us</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="already_have_an_accoun_t_login">Already have an accoun t? Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="signup_to_start_your_new_journey">SignUp to start your new Journey</string>
+    <string name="www_scholarship4us_com">www.scholarship4us.com</string>
+    <string name="data_akan_tampil_disini">Data akan tampil disini !</string>
+    <string name="data_email_disini">Data Email disini !</string>
+    <string name="data_nomor_telepon_disini">Data Nomor Telepon Disini !</string>
+</resources>
