@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    style="@style/SCREEN"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/bglogin"
+    style="@style/SCREEN"
     tools:context=".SignUpActivity"
     android:padding="20dp"
     >
@@ -52,7 +52,6 @@
             app:counterEnabled="true"
             app:counterMaxLength="15"
             app:boxStrokeColor="@color/Primary"
-            app:hintTextColor="@color/Primary"
             app:counterTextColor="@color/black"
             android:textColorHint="@color/textColor">
 
