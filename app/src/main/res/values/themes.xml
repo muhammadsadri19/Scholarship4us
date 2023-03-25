@@ -19,5 +19,8 @@
         <item name="android:textColor">#fff</item>
     </style>
 
+    <style name="SPLASH">
+        <item name="android:background">@drawable/bgsplashscreen</item>
+    </style>
 
 </resources>
