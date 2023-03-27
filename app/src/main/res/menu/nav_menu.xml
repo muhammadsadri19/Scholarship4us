@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/icon_person"
+        android:title="Profil"
+        app:cnb_iconColor="#03A9F4"/>
+
+    <item
+        android:id="@+id/nav_near"
+        android:icon="@drawable/icon_near"
+        android:title="Beranda"
+        app:cnb_iconColor="#03A9F4"/>
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/icon_setting"
+        android:title="Pengaturan"
+        app:cnb_iconColor="#03A9F4"/>
+
+
+</menu>
