@@ -1,26 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.MyStartUp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.MyStartUp" parent="Theme.MaterialComponents.DayNight.NoActionBar"></style>
+    <style name="roundImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
     </style>
-    
-    <style name="SCREENLOGIN">
-        <item name="android:background">@drawable/bgnight1</item>
-    </style>
-    <style name="SCREENDATA">
-        <item name="android:background">@drawable/bgnight2</item>
-    </style>
-
-    <style name="TEXT">
-        <item name="android:textColor">#ffff</item>
-    </style>
-    
-    <style name="BUTTON">
-        <item name="android:background">#7895FF</item>
-        <item name="android:textColor">#fff</item>
-    </style>
-
-    <style name="SPLASH">
-        <item name="android:background">@drawable/bgsplashscreen</item>
-    </style>
-
 </resources>

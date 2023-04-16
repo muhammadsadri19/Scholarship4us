@@ -3,16 +3,4 @@
     <style name="Theme.MyStartUp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
     </style>
 
-    <style name="SCREENLOGIN">
-        <item name="android:background">@drawable/bglogin</item>
-    </style>
-    <style name="SCREENDATA">
-        <item name="android:background">@drawable/bgnight1</item>
-    </style>
-
-    <style name="BUTTON">
-        <item name="android:background">@color/Primary</item>
-        <item name="android:textColor">#ffff</item>
-    </style>
-
 </resources>
